@@ -4,4 +4,4 @@ Content in Turkish & English.
 
 In this example we are training a simple pyBullet RL agent with SAC using TF-Agents library on Google Colab.
 
-![output]()
+![output](https://github.com/ugurkanates/DataCamp2020ReinforcementLearningWorkshop/blob/main/ezgif.com-gif-maker.gif?raw=true)
